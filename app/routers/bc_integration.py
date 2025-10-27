@@ -11,7 +11,6 @@ from fastapi import APIRouter, UploadFile, File, HTTPException, Depends
 from fastapi.responses import JSONResponse
 from sqlalchemy.orm import Session
 from app.core.database import get_db
-from app.core.azure_ad_auth import get_current_user, get_current_user_optional
 from app.controllers.q88 import Q88Controller
 from app.AI.chat_graph.tools.q88_tools import Q88ExtractionTool
 from app.services.azure_ocr_service import AzureOCRService
@@ -224,8 +223,7 @@ bc_service = BCIntegrationService()
 @router.post("/upload-document")
 async def upload_document_for_bc(
     file: UploadFile = File(...),
-    db: Session = Depends(get_db),
-    current_user: Optional[dict] = Depends(get_current_user_optional)
+    db: Session = Depends(get_db)
 ):
     """
     Endpoint para upload de documentos Q88 para integração com Business Central
@@ -239,11 +237,8 @@ async def upload_document_for_bc(
         JSON com dados estruturados para criação de Shipment no BC
     """
     try:
-        # Log de autenticação
-        if current_user:
-            logger.info(f"🔐 [BC Integration] Usuário autenticado: {current_user.get('name', 'Unknown')}")
-        else:
-            logger.warning(f"⚠️ [BC Integration] Upload SEM autenticação (modo dev)")
+        # Modo desenvolvimento - sem autenticação
+        logger.warning(f"⚠️ [BC Integration] Upload SEM autenticação (modo dev/BC)")
         
         logger.info(f"📥 [BC Integration] Recebendo upload de: {file.filename}")
         logger.info(f"📋 [BC Integration] Content-Type: {file.content_type}")
