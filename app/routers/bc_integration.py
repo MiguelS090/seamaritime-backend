@@ -7,7 +7,7 @@ import logging
 import tempfile
 import os
 from typing import Dict, Any, Optional
-from fastapi import APIRouter, UploadFile, File, HTTPException, Depends
+from fastapi import APIRouter, UploadFile, File, HTTPException, Depends, Request
 from fastapi.responses import JSONResponse
 from sqlalchemy.orm import Session
 from app.core.database import get_db
@@ -277,6 +277,76 @@ async def upload_document_for_bc(
     except Exception as e:
         logger.error(f"❌ [BC Integration] Erro no endpoint upload: {str(e)}", exc_info=True)
         raise HTTPException(status_code=500, detail=f"Erro interno: {str(e)}")
+
+@router.post("/upload-binary")
+async def upload_binary_for_bc(
+    request: Request,
+    db: Session = Depends(get_db)
+):
+    """
+    Endpoint alternativo para upload binário direto (para Business Central AL)
+    Recebe o ficheiro como corpo binário com X-Filename header
+    """
+    try:
+        logger.warning(f"⚠️ [BC Integration] Upload binário SEM autenticação (modo dev/BC)")
+        
+        # Obter filename do header
+        filename = request.headers.get('X-Filename', 'document.pdf')
+        logger.info(f"📥 [BC Integration] Recebendo upload binário de: {filename}")
+        logger.info(f"📋 [BC Integration] Content-Type: {request.headers.get('content-type')}")
+        
+        # Validar tipo de arquivo
+        allowed_extensions = ['.pdf', '.docx', '.doc', '.png', '.jpg', '.jpeg']
+        file_extension = os.path.splitext(filename)[1].lower()
+        
+        if file_extension not in allowed_extensions:
+            raise HTTPException(
+                status_code=400, 
+                detail=f"Tipo de arquivo não suportado. Tipos permitidos: {', '.join(allowed_extensions)}"
+            )
+        
+        # Ler corpo binário
+        file_content = await request.body()
+        
+        # Salvar temporariamente
+        with tempfile.NamedTemporaryFile(delete=False, suffix=file_extension) as temp_file:
+            temp_file.write(file_content)
+            temp_file_path = temp_file.name
+        
+        try:
+            # Criar UploadFile mock para reutilizar lógica existente
+            from io import BytesIO
+            file_mock = UploadFile(
+                filename=filename,
+                file=BytesIO(file_content)
+            )
+            
+            # Processar documento
+            logger.info(f"🔄 [BC Integration] Iniciando processamento de: {filename}")
+            result = await bc_service.process_document_for_bc(file_mock)
+            
+            logger.info(f"✅ [BC Integration] Processamento concluído com sucesso")
+            
+            return JSONResponse(
+                status_code=200,
+                content={
+                    "success": True,
+                    "message": "Documento processado com sucesso",
+                    "data": result,
+                    "filename": filename
+                }
+            )
+        finally:
+            # Limpar arquivo temporário
+            if os.path.exists(temp_file_path):
+                os.unlink(temp_file_path)
+        
+    except HTTPException:
+        raise
+    except Exception as e:
+        logger.error(f"❌ [BC Integration] Erro no endpoint upload binário: {str(e)}", exc_info=True)
+        raise HTTPException(status_code=500, detail=f"Erro interno: {str(e)}")
+
 
 @router.get("/health")
 async def health_check():
