@@ -124,8 +124,17 @@ async def get_current_user_optional(
 ) -> Optional[dict]:
     """
     Dependency para obter usuário autenticado (opcional)
+    Retorna None se Azure AD Auth estiver desabilitado ou se não houver credentials
     """
+    # Se Azure AD está desabilitado, retornar None (modo dev sem autenticação)
+    if not azure_ad_settings.ENABLE_AZURE_AD_AUTH:
+        logger.warning("⚠️ Azure AD Auth DESABILITADO - Upload sem autenticação permitido")
+        return None
+    
+    # Se não há credentials mas Azure AD está habilitado, retornar None (opcional)
     if not credentials:
         return None
+    
+    # Se há credentials e Azure AD está habilitado, validar token
     return await azure_ad_auth.verify_token(credentials)
 
