@@ -1,0 +1,22 @@
+# Ignorar diretórios e arquivos de configuração do Docker
+.dockerignore
+Dockerfile
+docker-compose.yml
+
+# Ignorar diretórios e arquivos específicos do ambiente de desenvolvimento
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Ignorar arquivos e diretórios de versão
+.git
+.gitignore
+
+# Ignorar arquivos temporários e de compilação
+*.tmp
+*.bak
+*.swp

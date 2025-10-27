@@ -1,0 +1,1077 @@
+{
+  "image.png": {
+    "document_id": "Aspropyrgos_9283629_20251009_112845",
+    "original_filename": "Aspropyrgos_Q88_130753804127567013.pdf.docx",
+    "vessel_name": "Aspropyrgos",
+    "imo_number": "9283629",
+    "created_at": "2025-10-09T11:28:45.238350",
+    "updated_at": "2025-10-09T14:05:32.900032",
+    "saved_by": null,
+    "status": "sent_to_bc",
+    "file_path": "uploads\\q88\\e0a44b67-4f2b-49b9-a999-16b9f3128635.docx"
+  },
+  "llm_result": {
+    "fields": {
+      "VesselName": {
+        "value": "Aspropyrgos",
+        "confidence": 1.0,
+        "source": "1.2",
+        "raw_text": "Vessel’s name: Aspropyrgos"
+      },
+      "IMONumber": {
+        "value": "9283629",
+        "confidence": 1.0,
+        "source": "1.3",
+        "raw_text": "IMO number: 9283629"
+      },
+      "Flag": {
+        "value": "Bahamas",
+        "confidence": 1.0,
+        "source": "1.7",
+        "raw_text": "Flag: Bahamas"
+      },
+      "PortOfRegistry": {
+        "value": "Nassau",
+        "confidence": 1.0,
+        "source": "1.8",
+        "raw_text": "Port of Registry: Nassau"
+      },
+      "CallSign": {
+        "value": "C6TM9",
+        "confidence": 1.0,
+        "source": "manual-edit",
+        "raw_text": "Edited by user"
+      },
+      "MMSI": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "VesselType": {
+        "value": "Oil Tanker",
+        "confidence": 1.0,
+        "source": "1.11",
+        "raw_text": "Type of vessel: Oil Tanker"
+      },
+      "HullType": {
+        "value": "Double Hull",
+        "confidence": 1.0,
+        "source": "1.12",
+        "raw_text": "Type of hull: Double Hull"
+      },
+      "DateUpdated": {
+        "value": "May 06, 2015",
+        "confidence": 1.0,
+        "source": "1.1",
+        "raw_text": "Date updated: May 06, 2015"
+      },
+      "PreviousName": {
+        "value": "Stena Callas (Oct 07, 2014), Aspropyrgos (Jan 19, 2009)",
+        "confidence": 1.0,
+        "source": "1.4",
+        "raw_text": "Vessel’s previous name(s) and date(s) of change: Stena Callas (Oct 07, 2014) Aspropyrgos (Jan 19, 2009)"
+      },
+      "ContactDetails": {
+        "value": "Phone: 773159473, Fax: 783203090, Telex: 431170210 / 211, Email: aspropyrgos@amosconnect.com",
+        "confidence": 1.0,
+        "source": "1.10",
+        "raw_text": "Vessel’s satcom phone number: 773159473, Vessel’s fax number: 783203090, Vessel’s telex number: 431170210 / 211, Vessel’s email address: aspropyrgos@amosconnect.com"
+      },
+      "RegisteredOwner": {
+        "value": "Aspropyrgos II Maritime Ltd, 80 Broad Str. Monrovia, Liberia",
+        "confidence": 1.0,
+        "source": "1.42",
+        "raw_text": "Registered owner - Full style: Aspropyrgos II Maritime Ltd 80 Broad Str. Monrovia ,Liberia"
+      },
+      "TechnicalOperator": {
+        "value": "Paradise Navigation SA, 4-6 Solomou Street, 3rd Floor, Stoa Center, 15451 Neo Psychiko, Athens, Greece",
+        "confidence": 1.0,
+        "source": "1.43",
+        "raw_text": "Technical operator - Full style: Paradise Navigation SA 4-6 Solomou Street, 3rd Floor, Stoa Center, 15451 Neo Psychiko, Athens, Greece"
+      },
+      "CommercialOperator": {
+        "value": "Penfield Marine LLC, 65 Station Street, Southport, CT 06890",
+        "confidence": 1.0,
+        "source": "1.44",
+        "raw_text": "Commercial operator - Full style: Penfield Marine LLC 65 Station Street Southport, CT 06890"
+      },
+      "DisponentOwner": {
+        "value": "Penfield Tankers (Panamax) LLC, Trust Company Complex, Ajeltake Island, Majuro, Marshall Islands, MH 96960",
+        "confidence": 1.0,
+        "source": "1.45",
+        "raw_text": "Disponent owner - Full style: Penfield Tankers (Panamax) LLC Trust Company Complex Ajeltake Island Majuro, Marshall Islands MH 96960"
+      },
+      "PIClub": {
+        "value": "GARD, GARD SERVICES AS, Address: Service box 600, N-4809 Arendal, Norway",
+        "confidence": 1.0,
+        "source": "9.5",
+        "raw_text": "P & I Club - Full Style: GARD GARD SERVICES AS Address: Service box 600, N-4809 Arendal, Norway"
+      },
+      "PollutionLiability": {
+        "value": "1,000,000,000 US$",
+        "confidence": 1.0,
+        "source": "9.6",
+        "raw_text": "P & I Club coverage - pollution liability coverage: 1,000,000,000 US$"
+      },
+      "PollutionLiabilityCoverage": {
+        "value": "1,000,000,000 US$",
+        "confidence": 1.0,
+        "source": "9.6",
+        "raw_text": "P & I Club coverage - pollution liability coverage: 1,000,000,000 US$"
+      },
+      "HullMachineryInsurer": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "HullMachineryValue": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "ExpirationDate": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "ClassificationSociety": {
+        "value": "Nippon Kaiji Kyokai",
+        "confidence": 1.0,
+        "source": "1.13",
+        "raw_text": "Classification society: Nippon Kaiji Kyokai"
+      },
+      "ClassNotation": {
+        "value": "NS (Tanker, Oils-Flashpoint on or below 60C) MNS (Primeship-Direct Assessment & Fatigue Assessment)(ESP)(PSCM)(IWS)",
+        "confidence": 1.0,
+        "source": "1.14",
+        "raw_text": "Class notation: NS (Tanker, Oils-Flashpoint on or below 60C) MNS (Primeship-Direct Assessment & Fatigue Assessment)(ESP)(PSCM)(IWS)"
+      },
+      "ClassConditions": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "ClassificationChanged": {
+        "value": "Lloyds Register, Oct 07, 2008",
+        "confidence": 1.0,
+        "source": "1.15, 1.16",
+        "raw_text": "If Classification society changed, name of previous society: Lloyds Register, date of change: Oct 07, 2008"
+      },
+      "IceClass": {
+        "value": "No, n/a",
+        "confidence": 1.0,
+        "source": "1.18",
+        "raw_text": "Does the vessel have ice class? If yes, state what level: No, n/a"
+      },
+      "LastDryDock": {
+        "value": "Oct 08, 2014, Antwerp",
+        "confidence": 1.0,
+        "source": "1.19",
+        "raw_text": "Date / place of last dry-dock: Oct 08, 2014, Antwerp"
+      },
+      "NextDryDockDue": {
+        "value": "Oct 08, 2017",
+        "confidence": 1.0,
+        "source": "1.20",
+        "raw_text": "Date next dry dock due: Oct 08, 2017"
+      },
+      "NextAnnualSurveyDue": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "LastSpecialSurvey": {
+        "value": "Oct 08, 2014",
+        "confidence": 1.0,
+        "source": "1.21",
+        "raw_text": "Date of last special survey: Oct 08, 2014"
+      },
+      "NextSpecialSurveyDue": {
+        "value": "Aug 31, 2019",
+        "confidence": 1.0,
+        "source": "1.21",
+        "raw_text": "Next survey due: Aug 31, 2019"
+      },
+      "Builder": {
+        "value": "Hudong-Zhonghua Shipyard Shanghai PRChina",
+        "confidence": 1.0,
+        "source": "1.6",
+        "raw_text": "Builder (where built): Hudong-Zhonghua Shipyard Shanghai PRChina"
+      },
+      "DateDelivered": {
+        "value": "Aug 31, 2004",
+        "confidence": 1.0,
+        "source": "1.5",
+        "raw_text": "Date delivered: Aug 31, 2004"
+      },
+      "LOA": {
+        "value": "228.60 Metres",
+        "confidence": 1.0,
+        "source": "1.25",
+        "raw_text": "Length Over All (LOA): 228.60 Metres"
+      },
+      "LBP": {
+        "value": "218.60 Metres",
+        "confidence": 1.0,
+        "source": "1.26",
+        "raw_text": "Length Between Perpendiculars (LBP): 218.60 Metres"
+      },
+      "Beam": {
+        "value": "32.26 Metres",
+        "confidence": 1.0,
+        "source": "1.27",
+        "raw_text": "Extreme breadth (Beam): 32.26 Metres"
+      },
+      "MouldedDepth": {
+        "value": "20.20 Metres",
+        "confidence": 1.0,
+        "source": "1.28",
+        "raw_text": "Moulded depth: 20.20 Metres"
+      },
+      "KTM": {
+        "value": "45.52 Metres",
+        "confidence": 1.0,
+        "source": "1.29",
+        "raw_text": "Keel to Masthead (KTM): 45.52 Metres"
+      },
+      "DistanceBridgeFront": {
+        "value": "74.00 Metres",
+        "confidence": 1.0,
+        "source": "1.31",
+        "raw_text": "Distance bridge front to center of manifold: 74.00 Metres"
+      },
+      "BCM": {
+        "value": "116.00 Metres",
+        "confidence": 1.0,
+        "source": "1.30",
+        "raw_text": "Bow to Center Manifold (BCM): 116.00 Metres"
+      },
+      "SCM": {
+        "value": "112.60 Metres",
+        "confidence": 1.0,
+        "source": "1.30",
+        "raw_text": "Stern to Center Manifold (SCM): 112.60 Metres"
+      },
+      "NetTonnage": {
+        "value": "21,232.00",
+        "confidence": 1.0,
+        "source": "1.35",
+        "raw_text": "Net Tonnage: 21,232.00"
+      },
+      "GrossTonnage": {
+        "value": "40,690.00",
+        "confidence": 1.0,
+        "source": "1.36",
+        "raw_text": "Gross Tonnage: 40,690.00"
+      },
+      "ReducedGrossTonnage": {
+        "value": "31,934",
+        "confidence": 1.0,
+        "source": "1.36",
+        "raw_text": "Reduced Gross Tonnage: 31,934"
+      },
+      "SuezTonnage": {
+        "value": "42,542.13",
+        "confidence": 1.0,
+        "source": "1.37",
+        "raw_text": "Suez Canal Tonnage - Gross (SCGT): 42,542.13"
+      },
+      "PanamaTonnage": {
+        "value": "33,630.00",
+        "confidence": 1.0,
+        "source": "1.38",
+        "raw_text": "Panama Canal Net Tonnage (PCNT): 33,630.00"
+      },
+      "SummerDWT": {
+        "value": "72,584 Metric Tonnes",
+        "confidence": 1.0,
+        "source": "1.39",
+        "raw_text": "Summer: 72,584 Metric Tonnes"
+      },
+      "WinterDWT": {
+        "value": "70,867.14 Metric Tonnes",
+        "confidence": 1.0,
+        "source": "1.39",
+        "raw_text": "Winter: 70,867.14 Metric Tonnes"
+      },
+      "TropicalDWT": {
+        "value": "74,794.44 Metric Tonnes",
+        "confidence": 1.0,
+        "source": "1.39",
+        "raw_text": "Tropical: 74,794.44 Metric Tonnes"
+      },
+      "Lightship": {
+        "value": "13,421.35 Metric Tonnes",
+        "confidence": 1.0,
+        "source": "1.39",
+        "raw_text": "Lightship: 13,421.35 Metric Tonnes"
+      },
+      "NormalBallast": {
+        "value": "27,093.86 Metric Tonnes",
+        "confidence": 1.0,
+        "source": "1.39",
+        "raw_text": "Normal Ballast Condition: 27,093.86 Metric Tonnes"
+      },
+      "SegregatedBallast": {
+        "value": "SBT",
+        "confidence": 1.0,
+        "source": "6.7",
+        "raw_text": "Does vessel have Segregated Ballast Tanks (SBT): SBT"
+      },
+      "Freeboard": {
+        "value": "6.18 Metres",
+        "confidence": 1.0,
+        "source": "1.39",
+        "raw_text": "Summer: Freeboard: 6.18 Metres"
+      },
+      "Draft": {
+        "value": "14.02 Metres",
+        "confidence": 1.0,
+        "source": "1.39",
+        "raw_text": "Summer: Draft: 14.02 Metres"
+      },
+      "Displacement": {
+        "value": "86,249.21 Metric Tonnes",
+        "confidence": 1.0,
+        "source": "1.39",
+        "raw_text": "Summer: Displacement: 86,249.21 Metric Tonnes"
+      },
+      "FWA": {
+        "value": "320.00 Millimetres",
+        "confidence": 1.0,
+        "source": "1.33",
+        "raw_text": "FWA at summer draft: 320.00 Millimetres"
+      },
+      "TPC": {
+        "value": "67.20 Metric Tonnes",
+        "confidence": 1.0,
+        "source": "1.33",
+        "raw_text": "TPC immersion at summer draft: 67.20 Metric Tonnes"
+      },
+      "Constant": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "UKC": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "AirDraft": {
+        "value": "31.50 Metres",
+        "confidence": 1.0,
+        "source": "1.34",
+        "raw_text": "At loaded summer deadweight: 31.50 Metres"
+      },
+      "MaxMastHeight": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "MultipleSSDWT": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "1.40",
+        "raw_text": "Does vessel have multiple SDWT? Yes"
+      },
+      "SEC": {
+        "value": "Issued",
+        "confidence": 1.0,
+        "source": "2.1",
+        "raw_text": "Safety Equipment Certificate: Issued Oct 08, 2014"
+      },
+      "SRC": {
+        "value": "Issued",
+        "confidence": 1.0,
+        "source": "2.2",
+        "raw_text": "Safety Radio Certificate: Issued Oct 08, 2014"
+      },
+      "SCC": {
+        "value": "Issued",
+        "confidence": 1.0,
+        "source": "2.3",
+        "raw_text": "Safety Construction Certificate: Issued Oct 08, 2014"
+      },
+      "ILC": {
+        "value": "Issued",
+        "confidence": 1.0,
+        "source": "2.4",
+        "raw_text": "Loadline Certificate: Issued Oct 08, 2014"
+      },
+      "IOPPC": {
+        "value": "Issued",
+        "confidence": 1.0,
+        "source": "2.5",
+        "raw_text": "International Oil Pollution Prevention Certificate (IOPPC): Issued Oct 22, 2014"
+      },
+      "ISSC": {
+        "value": "Issued",
+        "confidence": 1.0,
+        "source": "2.15",
+        "raw_text": "International Ship Security Certificate (ISSC): Issued Oct 08, 2014"
+      },
+      "MLC": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "ISM": {
+        "value": "Issued",
+        "confidence": 1.0,
+        "source": "2.6",
+        "raw_text": "Safety Management Certificate (SMC): Issued Oct 08, 2014"
+      },
+      "DOC": {
+        "value": "Issued",
+        "confidence": 1.0,
+        "source": "2.7",
+        "raw_text": "Document of Compliance (DOC): Issued May 22, 2013"
+      },
+      "IAPP": {
+        "value": "Issued",
+        "confidence": 1.0,
+        "source": "2.17",
+        "raw_text": "International Air Pollution Prevention Certificate (IAPP): Issued Oct 08, 2014"
+      },
+      "ISPP": {
+        "value": "Issued",
+        "confidence": 1.0,
+        "source": "2.16",
+        "raw_text": "International Sewage Pollution Prevention Certificate (ISPPC): Issued Oct 08, 2014"
+      },
+      "CLC": {
+        "value": "Issued",
+        "confidence": 1.0,
+        "source": "2.9",
+        "raw_text": "Civil Liability Convention Certificate (CLC): Issued Feb 10, 2015"
+      },
+      "CLBC": {
+        "value": "Issued",
+        "confidence": 1.0,
+        "source": "2.10",
+        "raw_text": "Civil Liability for Bunker Oil Pollution Damage Convention Certificate (CLBC): Issued Feb 10, 2015"
+      },
+      "COFR": {
+        "value": "Issued",
+        "confidence": 1.0,
+        "source": "2.11",
+        "raw_text": "U.S. Certificate of Financial Responsibility (COFR): Issued Dec 30, 2014"
+      },
+      "COFChemicals": {
+        "value": "Not Applicable",
+        "confidence": 1.0,
+        "source": "2.12",
+        "raw_text": "Certificate of Fitness (Chemicals): Not Applicable"
+      },
+      "COFGas": {
+        "value": "Not Applicable",
+        "confidence": 1.0,
+        "source": "2.13",
+        "raw_text": "Certificate of Fitness (Gas): Not Applicable"
+      },
+      "COC": {
+        "value": "Issued",
+        "confidence": 1.0,
+        "source": "2.14",
+        "raw_text": "Certificate of Class: Issued Oct 08, 2014"
+      },
+      "CrewNationality": {
+        "value": "Greek",
+        "confidence": 1.0,
+        "source": "3.1",
+        "raw_text": "Nationality of Master: Greek"
+      },
+      "NumberOfOfficers": {
+        "value": "Filipino, Montenegrin, Greek, Serbian",
+        "confidence": 1.0,
+        "source": "3.2",
+        "raw_text": "Nationality of Officers: Filipino, Montenegrin, Greek, Serbian"
+      },
+      "NumberOfCrew": {
+        "value": "Montenegro, Filipino",
+        "confidence": 1.0,
+        "source": "3.3",
+        "raw_text": "Nationality of Crew: Montenegro, Filipino"
+      },
+      "WorkingLanguage": {
+        "value": "English",
+        "confidence": 1.0,
+        "source": "3.5",
+        "raw_text": "What is the common working language onboard: English"
+      },
+      "OfficersLanguage": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "3.6",
+        "raw_text": "Do officers speak and understand English: Yes"
+      },
+      "ManningAgency": {
+        "value": "Interorient Maritime Enterprises Intl, 608 Ortigas Av., Parig, M. Manila, 1605 Philippines",
+        "confidence": 1.0,
+        "source": "3.4",
+        "raw_text": "If Officers/Crew employed by a Manning Agency - Full style: Interorient Maritime Enterprises Intl 608 Ortigas Av., Parig, M. Manila, 1605 Philippines"
+      },
+      "VesselResponse": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "5.1",
+        "raw_text": "Has the vessel Operator submitted a Vessel Spill Response Plan to the US Coast Guard which has been approved by official USCG letter: Yes"
+      },
+      "QualifiedIndividual": {
+        "value": "OBRIENS OIL POLLUTION SERVICE, 645 Codifer Street, Slidell, Louisiana 70458, United States of America",
+        "confidence": 1.0,
+        "source": "5.2",
+        "raw_text": "Qualified individual (QI) - Full style: OBRIENS OIL POLLUTION SERVICE 645 Codifer Street Slidell, Louisiana 70458 United States of America"
+      },
+      "OSROOrganization": {
+        "value": "NATIONAL RESPONSE CORPORATION (NRC), 3500 Sunrise Highway, Suite T103, Great River, New York 11739",
+        "confidence": 1.0,
+        "source": "5.3",
+        "raw_text": "Oil Spill Response Organization (OSRO) -Full style: NATIONAL RESPONSE CORPORATION (NRC) 3500 Sunrise Highway, Suite T103 • Great River, New York 11739"
+      },
+      "SMFF": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "QualityManagementSystem": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "HelicopterGuidelines": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "4.1",
+        "raw_text": "Can the ship comply with the ICS Helicopter Guidelines: Yes"
+      },
+      "CircleProvided": {
+        "value": "Winching",
+        "confidence": 1.0,
+        "source": "4.2",
+        "raw_text": "If Yes, state whether winching or landing area provided: Winching"
+      },
+      "CoatingAnodes": {
+        "value": "ZINC 32 kgr BOLTED",
+        "confidence": 1.0,
+        "source": "6.43",
+        "raw_text": "If fitted, what type of anodes are used: ZINC 32 kgr BOLTED"
+      },
+      "BallastPumps": {
+        "value": "2 Centrifugal 1,200 Cu. Metres/Hour",
+        "confidence": 1.0,
+        "source": "6.15",
+        "raw_text": "Ballast: 2 Centrifugal 1,200 Cu. Metres/Hour"
+      },
+      "BallastEductors": {
+        "value": "1 Reciprocating 360 Cu. Metres/Hour",
+        "confidence": 1.0,
+        "source": "6.15",
+        "raw_text": "Eductors: 1 Reciprocating 360 Cu. Metres/Hour"
+      },
+      "DoubleHullVessel": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "6.1",
+        "raw_text": "Is vessel fitted with centerline bulkhead in all cargo tanks: Yes"
+      },
+      "SBTorCBT": {
+        "value": "SBT",
+        "confidence": 1.0,
+        "source": "6.7",
+        "raw_text": "Does vessel have Segregated Ballast Tanks (SBT) or Clean Ballast Tanks (CBT): SBT"
+      },
+      "SBTPercentage": {
+        "value": "39.50 %",
+        "confidence": 1.0,
+        "source": "6.9",
+        "raw_text": "What percentage of SDWT can vessel maintain with SBT only: 39.50 %"
+      },
+      "MARPOLCompliance": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "6.10",
+        "raw_text": "Does vessel meet the requirements of MARPOL Annex I Reg 18.2: Yes"
+      },
+      "DoubleValveSeparation": {
+        "value": "3",
+        "confidence": 1.0,
+        "source": "6.11",
+        "raw_text": "How many grades/products can vessel load/discharge with double valve segregation: 3"
+      },
+      "MaxLoadingRate": {
+        "value": "2,500 Cu. Metres/Hour",
+        "confidence": 1.0,
+        "source": "6.12",
+        "raw_text": "Maximum loading rate for homogenous cargo per manifold connection: 2,500 Cu. Metres/Hour"
+      },
+      "MaxLoadingRateAll": {
+        "value": "7,500.00 Cu. Metres/Hour",
+        "confidence": 1.0,
+        "source": "6.13",
+        "raw_text": "Maximum loading rate for homogenous cargo loaded simultaneously through all manifolds: 7,500.00 Cu. Metres/Hour"
+      },
+      "OCIMFCompliance": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "6.25",
+        "raw_text": "Does vessel comply with the latest edition of the OCIMF 'Recommendations for Oil Tanker Manifolds and Associated Equipment’: Yes"
+      },
+      "CargoRestrictions": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "6.14",
+        "raw_text": "Are there any cargo tank filling restrictions. If yes, please specify: Yes"
+      },
+      "LoadedPerManifold": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "LoadedSimultaneously": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "ManifoldHeight": {
+        "value": "15.28 Metres",
+        "confidence": 1.0,
+        "source": "6.34",
+        "raw_text": "Manifold height above the waterline in normal ballast: 15.28 Metres"
+      },
+      "SternManifold": {
+        "value": "No",
+        "confidence": 1.0,
+        "source": "6.36",
+        "raw_text": "Is vessel fitted with a stern manifold: No"
+      },
+      "MaxCargoTemp": {
+        "value": "66.0 °C / 150.8 °F",
+        "confidence": 1.0,
+        "source": "6.41",
+        "raw_text": "Maximum temperature cargo can be loaded/maintained: 66.0 °C / 150.8 °F"
+      },
+      "GaugingSystem": {
+        "value": "Radar",
+        "confidence": 1.0,
+        "source": "6.20",
+        "raw_text": "What type of fixed closed tank gauging system is fitted: Radar"
+      },
+      "HighLevelAlarms": {
+        "value": "Yes / All",
+        "confidence": 1.0,
+        "source": "6.21",
+        "raw_text": "Are overfill (high-high) alarms fitted? If Yes, indicate whether to all tanks or partial: Yes / All"
+      },
+      "TankOverpressure": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "MultiPointGauging": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "PortableGauging": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "VECSFitted": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "6.22",
+        "raw_text": "Is a vapor return system (VRS) fitted: Yes"
+      },
+      "VECSManifolds": {
+        "value": "1",
+        "confidence": 1.0,
+        "source": "6.23",
+        "raw_text": "Number/size of VRS manifolds (per side): 1"
+      },
+      "VECSType": {
+        "value": "Common Venting using Deck IGS Lines",
+        "confidence": 1.0,
+        "source": "6.24",
+        "raw_text": "State what type of venting system is fitted: Common Venting using Deck IGS Lines"
+      },
+      "VentingSystem": {
+        "value": "Common Venting using Deck IGS Lines",
+        "confidence": 1.0,
+        "source": "6.24",
+        "raw_text": "State what type of venting system is fitted: Common Venting using Deck IGS Lines"
+      },
+      "ManifoldConnections": {
+        "value": "4",
+        "confidence": 1.0,
+        "source": "6.26",
+        "raw_text": "What is the number of cargo connections per side: 4"
+      },
+      "ManifoldValves": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "OCIMFManifolds": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "6.25",
+        "raw_text": "Does vessel comply with the latest edition of the OCIMF 'Recommendations for Oil Tanker Manifolds and Associated Equipment’: Yes"
+      },
+      "ManifoldDistance": {
+        "value": "2,500.00 Millimetres",
+        "confidence": 1.0,
+        "source": "6.29",
+        "raw_text": "Distance between cargo manifold centers: 2,500.00 Millimetres"
+      },
+      "ManifoldToShipSide": {
+        "value": "4,600.00 Millimetres",
+        "confidence": 1.0,
+        "source": "6.31",
+        "raw_text": "Distance manifold to ships side: 4,600.00 Millimetres"
+      },
+      "CargoManifoldDistance": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "MainDeckCenter": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "DistanceShipsRail": {
+        "value": "4,400.00 Millimetres",
+        "confidence": 1.0,
+        "source": "6.30",
+        "raw_text": "Distance ships rail to manifold: 4,400.00 Millimetres"
+      },
+      "ManifoldHeightBallast": {
+        "value": "15.28 Metres",
+        "confidence": 1.0,
+        "source": "6.34",
+        "raw_text": "Manifold height above the waterline in normal ballast: 15.28 Metres"
+      },
+      "ManifoldHeightSDWT": {
+        "value": "8.24 Metres",
+        "confidence": 1.0,
+        "source": "6.34",
+        "raw_text": "Manifold height above the waterline at SDWT condition: 8.24 Metres"
+      },
+      "ReducersType": {
+        "value": "4 x 400/300mm (16/12\") 4 x 400/250mm (16/10\") 4 x 400/200mm (16/8\") 4 x 0/0mm (0/0\")",
+        "confidence": 1.0,
+        "source": "6.35",
+        "raw_text": "Number / size reducers: 4 x 400/300mm (16/12\") 4 x 400/250mm (16/10\") 4 x 400/200mm (16/8\") 4 x 0/0mm (0/0\")"
+      },
+      "SternManifoldFitted": {
+        "value": "No",
+        "confidence": 1.0,
+        "source": "6.36",
+        "raw_text": "Is vessel fitted with a stern manifold: No"
+      },
+      "CargoHoseFitted": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "WiresDrums": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "ForecastleWires": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "RopesDrums": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "MainDeckWires": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "ForecastleRopes": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "PopeDeck": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "ShacklesPort": {
+        "value": "12",
+        "confidence": 1.0,
+        "source": "8.10",
+        "raw_text": "Number of shackles on port cable: 12"
+      },
+      "SWLAnchor": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "SWLEmergencyTowing": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "ClosedChockType": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "ClosedChockSWL": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "ChainStopper": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "8.17",
+        "raw_text": "Is vessel fitted with chain stopper(s): Yes"
+      },
+      "DerricsSwl": {
+        "value": "Cranes: 1 x 15.00 Tonnes, Center",
+        "confidence": 1.0,
+        "source": "8.24",
+        "raw_text": "Derrick / Crane description: Cranes: 1 x 15.00 Tonnes, Center"
+      },
+      "AccommodationLadder": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "GangwayLength": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "SPMCompliance": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "8.16",
+        "raw_text": "Does vessel comply with the latest edition of OCIMF 'Recommendations for Equipment Employed in the Mooring of Vessels at Single Point Moorings (SPM)’: Yes"
+      },
+      "ChainStopperFitted": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "8.17",
+        "raw_text": "Is vessel fitted with chain stopper(s): Yes"
+      },
+      "ChainStopperSWL": {
+        "value": "200.00 Metric Tonnes",
+        "confidence": 1.0,
+        "source": "8.20",
+        "raw_text": "Safe Working Load (SWL) of chain stopper(s): 200.00 Metric Tonnes"
+      },
+      "OCIMFShipToShip": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "8.26",
+        "raw_text": "Does vessel comply with recommendations contained in OCIMF/ICS Ship To Ship Transfer Guide: Yes"
+      },
+      "BallastSpeed": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "LadenSpeed": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "FuelType": {
+        "value": "IFO 380 cst",
+        "confidence": 1.0,
+        "source": "9.1",
+        "raw_text": "What type of fuel is used for main propulsion? IFO 380 cst"
+      },
+      "FuelCapacity": {
+        "value": "2,700.20 Cu. Metres",
+        "confidence": 1.0,
+        "source": "9.3",
+        "raw_text": "Capacity of bunker tanks - IFO: 2,700.20 Cu. Metres"
+      },
+      "PropellerType": {
+        "value": "Fixed",
+        "confidence": 1.0,
+        "source": "9.4",
+        "raw_text": "Is vessel fitted with fixed or controllable pitch propeller(s)? Fixed"
+      },
+      "MainEngineType": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "MainEngineHP": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "AuxEngineType": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "AuxEngineKW": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "BowThruster": {
+        "value": "0 Kilowatt",
+        "confidence": 1.0,
+        "source": "8.14",
+        "raw_text": "What is brake horse power of bow thruster (if fitted): 0 Kilowatt"
+      },
+      "SternThruster": {
+        "value": "0 Kilowatt",
+        "confidence": 1.0,
+        "source": "8.15",
+        "raw_text": "What is brake horse power of stern thruster (if fitted): 0 Kilowatt"
+      },
+      "Boilers": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "IMONOxStandard": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "EnergyEfficiency": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "STSCompliance": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "8.26",
+        "raw_text": "Does vessel comply with recommendations contained in OCIMF/ICS Ship To Ship Transfer Guide: Yes"
+      },
+      "STSFenders": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "STSWaterplace": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      },
+      "LastThreeCargoes": {
+        "value": "FO/FO/VGO",
+        "confidence": 1.0,
+        "source": "9.11",
+        "raw_text": "Last three cargoes: FO/FO/VGO"
+      },
+      "PollutionIncident": {
+        "value": "No",
+        "confidence": 1.0,
+        "source": "9.10",
+        "raw_text": "Has vessel been involved in a pollution, grounding, serious casualty or collision incident during the past 12 months? Pollution: No"
+      },
+      "DatePlaceSIRE": {
+        "value": "Apr 23, 2015 / Balboa, Panama",
+        "confidence": 1.0,
+        "source": "9.12",
+        "raw_text": "Date/Place of last SIRE Inspection: Apr 23, 2015 / Balboa, Panama"
+      },
+      "PortStateDeficiencies": {
+        "value": "No",
+        "confidence": 1.0,
+        "source": "9.8",
+        "raw_text": "Any outstanding deficiencies as reported by any Port State Control: No"
+      },
+      "OMInspections": {
+        "value": "Shell, Chevron, Exxon, BP, P66, Conoco, Tesoro",
+        "confidence": 1.0,
+        "source": "9.14",
+        "raw_text": "Recent Oil company inspections/screenings: Shell, Chevron, Exxon, BP, P66, Conoco, Tesoro"
+      },
+      "SIREDate": {
+        "value": "Apr 23, 2015",
+        "confidence": 1.0,
+        "source": "9.12",
+        "raw_text": "Date/Place of last SIRE Inspection: Apr 23, 2015"
+      },
+      "AdditionalInfo": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "N/A",
+        "raw_text": null
+      }
+    },
+    "summary": {
+      "total_fields_found": 129,
+      "total_fields_expected": 174,
+      "completion_percentage": 74.13793103448276,
+      "document_type": "Q88 (OIL_TANKER)",
+      "processing_notes": "Extracted key vessel details, tonnage, dimensions, ownership, and certification information from the Q88 document."
+    }
+  },
+  "edit_history": [
+    {
+      "timestamp": "2025-10-09T14:05:32.900032",
+      "field_name": "CallSign",
+      "old_value": "C 6 T M 9",
+      "new_value": "C6TM9",
+      "edited_by": "user"
+    }
+  ]
+}

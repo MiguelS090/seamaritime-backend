@@ -1,0 +1,393 @@
+{
+  "metadata": {
+    "document_id": "SES_Brave_9344124_20251017_143401",
+    "original_filename": "Q88 (SES Brave 45853)-20250910.pdf",
+    "vessel_name": "SES Brave",
+    "imo_number": "9344124",
+    "created_at": "2025-10-17T14:34:01.333408",
+    "updated_at": "2025-10-17T14:34:01.333408",
+    "saved_by": null,
+    "status": "draft",
+    "file_path": "C:\\Users\\migue\\AppData\\Local\\Temp\\q88_gljbbnvt.pdf"
+  },
+  "llm_result": {
+    "fields": {
+      "VesselName": {
+        "value": "SES Brave",
+        "confidence": 0.95,
+        "source": "1.2",
+        "raw_text": "SES Brave (9344124)"
+      },
+      "IMONumber": {
+        "value": "9344124",
+        "confidence": 0.95,
+        "source": "1.2",
+        "raw_text": "SES Brave (9344124)"
+      },
+      "Flag": {
+        "value": "Hong Kong",
+        "confidence": 0.95,
+        "source": "1.5",
+        "raw_text": "Hong Kong/Hong Kong"
+      },
+      "CallSign": {
+        "value": "VRCN7",
+        "confidence": 0.95,
+        "source": "1.6",
+        "raw_text": "VRCN7/477656800"
+      },
+      "VesselType": {
+        "value": "Oil Tanker",
+        "confidence": 0.95,
+        "source": "1.8",
+        "raw_text": "Oil Tanker"
+      },
+      "MMSI": {
+        "value": "477656800",
+        "confidence": 0.95,
+        "source": "1.6",
+        "raw_text": "VRCN7/477656800"
+      },
+      "PortOfRegistry": {
+        "value": "Hong Kong",
+        "confidence": 0.95,
+        "source": "1.5",
+        "raw_text": "Hong Kong/Hong Kong"
+      },
+      "DateUpdated": {
+        "value": "10/Sep./2025",
+        "confidence": 0.95,
+        "source": "1.1",
+        "raw_text": "10/Sep./2025"
+      },
+      "PreviousName": {
+        "value": "CSC Brave",
+        "confidence": 0.95,
+        "source": "1.3",
+        "raw_text": "CSC Brave 06/MAR/2024"
+      },
+      "RegisteredOwner": {
+        "value": "SES BRAVE SHIPPING (HONG KONG) CO., LIMITED",
+        "confidence": 0.95,
+        "source": "1.10",
+        "raw_text": "SES BRAVE SHIPPING (HONG KONG) CO., LIMITED"
+      },
+      "TechnicalOperator": {
+        "value": "NANJING TANKER CORPORATION",
+        "confidence": 0.95,
+        "source": "1.11",
+        "raw_text": "NANJING TANKER CORPORATION"
+      },
+      "CommercialOperator": {
+        "value": "Nanjing Petroleum Transportation(S) Pte Ltd",
+        "confidence": 0.95,
+        "source": "1.12",
+        "raw_text": "Nanjing Petroleum Transportation(S) Pte Ltd"
+      },
+      "DisponentOwner": {
+        "value": "Nanjing Petroleum Transportation(S) Pte Ltd",
+        "confidence": 0.95,
+        "source": "1.13",
+        "raw_text": "Nanjing Petroleum Transportation(S) Pte Ltd"
+      },
+      "LOA": {
+        "value": "184.95 Metres",
+        "confidence": 0.95,
+        "source": "1.27",
+        "raw_text": "184.95 Metres"
+      },
+      "Beam": {
+        "value": "32.20 Metres",
+        "confidence": 0.95,
+        "source": "1.29",
+        "raw_text": "32.20 Metres"
+      },
+      "GrossTonnage": {
+        "value": "29,593.00",
+        "confidence": 0.95,
+        "source": "1.36",
+        "raw_text": "29,593.00"
+      },
+      "NetTonnage": {
+        "value": "24,567.00",
+        "confidence": 0.95,
+        "source": "1.35",
+        "raw_text": "24,567.00"
+      },
+      "SummerDWT": {
+        "value": "45,853.00 Metric Tonnes",
+        "confidence": 0.95,
+        "source": "1.43",
+        "raw_text": "45,853.00 Metric Tonnes"
+      },
+      "WinterDWT": {
+        "value": "44,508.00 Metric Tonnes",
+        "confidence": 0.95,
+        "source": "1.43",
+        "raw_text": "44,508.00 Metric Tonnes"
+      },
+      "TropicalDWT": {
+        "value": "47,182.00 Metric Tonnes",
+        "confidence": 0.95,
+        "source": "1.43",
+        "raw_text": "47,182.00 Metric Tonnes"
+      },
+      "ContactDetails": {
+        "value": "Tel: +6531636394(BRIDGE) /+6531636396(CAPT) Fax: 783968147 Email: brave@njtc.bjles.net",
+        "confidence": 0.95,
+        "source": "1.7",
+        "raw_text": "Tel: +6531636394(BRIDGE) /+6531636396(CAPT) Fax: 783968147 Email: brave@njtc.bjles.net"
+      },
+      "MasterEmail": {
+        "value": "brave@njtc.bjles.net",
+        "confidence": 0.95,
+        "source": "1.7",
+        "raw_text": "Email: brave@njtc.bjles.net"
+      },
+      "MasterPhone": {
+        "value": "+6531636394",
+        "confidence": 0.95,
+        "source": "1.7",
+        "raw_text": "Tel: +6531636394(BRIDGE)"
+      },
+      "InmarsatNumber": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "Not Found",
+        "raw_text": null
+      },
+      "MasterPIC": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "Not Found",
+        "raw_text": null
+      },
+      "ClassificationSociety": {
+        "value": "China Classification Society",
+        "confidence": 0.95,
+        "source": "1.18",
+        "raw_text": "China Classification Society"
+      },
+      "ClassNotation": {
+        "value": "CSA Oil Tanker; Double Hull; F.P<60;Ice Class B, Emergency Towing Arrangements; Loading Computer (S.I.D); Single Point Mooring; ESP",
+        "confidence": 0.95,
+        "source": "1.19",
+        "raw_text": "CSA Oil Tanker; Double Hull; F.P<60;Ice Class B, Emergency Towing Arrangements; Loading Computer (S.I.D); Single Point Mooring; ESP"
+      },
+      "ClassConditions": {
+        "value": "N/A",
+        "confidence": 0.95,
+        "source": "1.20",
+        "raw_text": "N/A"
+      },
+      "LastDryDock": {
+        "value": "Sept 08 , 2024",
+        "confidence": 0.95,
+        "source": "1.23",
+        "raw_text": "Sept 08 , 2024"
+      },
+      "NextDryDockDue": {
+        "value": "Oct 30, 2026",
+        "confidence": 0.95,
+        "source": "1.24",
+        "raw_text": "Oct 30, 2026"
+      },
+      "NextAnnualSurveyDue": {
+        "value": "Oct 30, 2026",
+        "confidence": 0.95,
+        "source": "1.24",
+        "raw_text": "Oct 30, 2026"
+      },
+      "PIClub": {
+        "value": "NORTH OF ENGLAND",
+        "confidence": 0.95,
+        "source": "1.14",
+        "raw_text": "NORTH OF ENGLAND"
+      },
+      "HullMachineryInsurer": {
+        "value": "PICC",
+        "confidence": 0.95,
+        "source": "1.16",
+        "raw_text": "PICC"
+      },
+      "HullMachineryValue": {
+        "value": "21,000,000.00 US$",
+        "confidence": 0.95,
+        "source": "1.17",
+        "raw_text": "21,000,000.00 US$"
+      },
+      "ExpirationDate": {
+        "value": "Dec 31, 2026",
+        "confidence": 0.95,
+        "source": "1.17",
+        "raw_text": "Dec 31, 2026"
+      },
+      "Builder": {
+        "value": "Jinling Shipyard",
+        "confidence": 0.95,
+        "source": "1.4",
+        "raw_text": "Mar 14, 2007/Jinling Shipyard"
+      },
+      "DateDelivered": {
+        "value": "Mar 14, 2007",
+        "confidence": 0.95,
+        "source": "1.4",
+        "raw_text": "Mar 14, 2007/Jinling Shipyard"
+      },
+      "ISM": {
+        "value": "Jul 16, 2025",
+        "confidence": 0.95,
+        "source": "2.8",
+        "raw_text": "Jul 16, 2025"
+      },
+      "DOC": {
+        "value": "May 08, 2024",
+        "confidence": 0.95,
+        "source": "2.9",
+        "raw_text": "May 08, 2024"
+      },
+      "IOPPC": {
+        "value": "Sept 03, 2025",
+        "confidence": 0.95,
+        "source": "2.5",
+        "raw_text": "Sept 03, 2025"
+      },
+      "ISSC": {
+        "value": "Jul 16, 2025",
+        "confidence": 0.95,
+        "source": "2.6",
+        "raw_text": "Jul 16, 2025"
+      },
+      "MLC": {
+        "value": "Jul 16, 2025",
+        "confidence": 0.95,
+        "source": "2.7",
+        "raw_text": "Jul 16, 2025"
+      },
+      "IAPP": {
+        "value": "Sept 15, 2024",
+        "confidence": 0.95,
+        "source": "2.19",
+        "raw_text": "Sept 15, 2024"
+      },
+      "CrewNationality": {
+        "value": "Chinese",
+        "confidence": 0.95,
+        "source": "3.1",
+        "raw_text": "Chinese"
+      },
+      "NumberOfOfficers": {
+        "value": "9",
+        "confidence": 0.95,
+        "source": "3.2",
+        "raw_text": "9"
+      },
+      "NumberOfCrew": {
+        "value": "14",
+        "confidence": 0.95,
+        "source": "3.3",
+        "raw_text": "14 Chinese"
+      },
+      "WorkingLanguage": {
+        "value": "Chinese And English",
+        "confidence": 0.95,
+        "source": "3.4",
+        "raw_text": "Chinese And English"
+      },
+      "ManningAgency": {
+        "value": "Nanjing Tanker Corp.",
+        "confidence": 0.95,
+        "source": "3.6",
+        "raw_text": "Nanjing Tanker Corp."
+      },
+      "DoubleHullVessel": {
+        "value": "Yes",
+        "confidence": 0.95,
+        "source": "1.8",
+        "raw_text": "Double Hull"
+      },
+      "MaxLoadingRate": {
+        "value": "5,000.00 Cu. Metres/Hour",
+        "confidence": 0.95,
+        "source": "8.6",
+        "raw_text": "5,000.00 Cu. Metres/Hour"
+      },
+      "CargoRestrictions": {
+        "value": "No",
+        "confidence": 0.95,
+        "source": "8.5",
+        "raw_text": "No"
+      },
+      "MaxCargoTemp": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "Not Found",
+        "raw_text": null
+      },
+      "MainEngineType": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "Not Found",
+        "raw_text": null
+      },
+      "MainEngineHP": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "Not Found",
+        "raw_text": null
+      },
+      "BallastSpeed": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "Not Found",
+        "raw_text": null
+      },
+      "LadenSpeed": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "Not Found",
+        "raw_text": null
+      },
+      "FuelType": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "Not Found",
+        "raw_text": null
+      },
+      "LastThreeCargoes": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "Not Found",
+        "raw_text": null
+      },
+      "SIREDate": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "Not Found",
+        "raw_text": null
+      },
+      "PortStateDeficiencies": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "Not Found",
+        "raw_text": null
+      },
+      "AdditionalInfo": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "Not Found",
+        "raw_text": null
+      }
+    },
+    "summary": {
+      "total_fields_found": 49,
+      "total_fields_expected": 61,
+      "completion_percentage": 80.32786885245902,
+      "document_type": "INTERTANKO CHARTERING QUESTIONNAIRE 88 - OIL",
+      "processing_notes": "Extraction focused on vessel identification, ownership, dimensions, and operational data. Some fields were not found in the provided text.",
+      "bc_relevant_fields": 45,
+      "extraction_quality": "good"
+    }
+  },
+  "edit_history": []
+}

@@ -1,0 +1,2 @@
+alembic revision --autogenerate -m "Nome da Atualização"
+alembic upgrade head

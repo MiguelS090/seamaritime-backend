@@ -1,0 +1,1069 @@
+{
+  "metadata": {
+    "document_id": "Prem_Pride_9167203_20251013_145239",
+    "original_filename": "Prem Pride_Q88 (Oil)_21062023.pdf",
+    "vessel_name": "Prem Pride",
+    "imo_number": "9167203",
+    "created_at": "2025-10-13T14:52:39.197523",
+    "updated_at": "2025-10-13T14:52:39.197523",
+    "saved_by": null,
+    "status": "draft",
+    "file_path": "C:\\Users\\migue\\AppData\\Local\\Temp\\q88_b8j08m99.pdf"
+  },
+  "llm_result": {
+    "fields": {
+      "VesselName": {
+        "value": "Prem Pride",
+        "confidence": 1.0,
+        "source": "1.2",
+        "raw_text": "Prem Pride"
+      },
+      "IMONumber": {
+        "value": "9167203",
+        "confidence": 1.0,
+        "source": "1.2",
+        "raw_text": "9167203"
+      },
+      "Flag": {
+        "value": "India",
+        "confidence": 1.0,
+        "source": "1.5",
+        "raw_text": "India"
+      },
+      "PortOfRegistry": {
+        "value": "Mumbai",
+        "confidence": 1.0,
+        "source": "1.5",
+        "raw_text": "Mumbai"
+      },
+      "CallSign": {
+        "value": "AUJL",
+        "confidence": 1.0,
+        "source": "1.6",
+        "raw_text": "AUJL"
+      },
+      "MMSI": {
+        "value": "419554000",
+        "confidence": 1.0,
+        "source": "1.6",
+        "raw_text": "419554000"
+      },
+      "VesselType": {
+        "value": "Other Cargo ship ( FSO)",
+        "confidence": 1.0,
+        "source": "1.8",
+        "raw_text": "Other Cargo ship ( FSO)"
+      },
+      "HullType": {
+        "value": "Double Hull",
+        "confidence": 1.0,
+        "source": "1.9",
+        "raw_text": "Double Hull"
+      },
+      "DateUpdated": {
+        "value": "June 21, 2023",
+        "confidence": 1.0,
+        "source": "1.1",
+        "raw_text": "June 21, 2023"
+      },
+      "PreviousName": {
+        "value": "Maersk Pride (May 19, 2005)",
+        "confidence": 1.0,
+        "source": "1.3",
+        "raw_text": "Maersk Pride (May 19, 2005)"
+      },
+      "ContactDetails": {
+        "value": "Tel: FBB: 870 773274636\nFax: NA\nEmail: master@prempride.amosconnect.com",
+        "confidence": 1.0,
+        "source": "1.7",
+        "raw_text": "Tel: FBB: 870 773274636\nFax: NA\nEmail: master@prempride.amosconnect.com"
+      },
+      "RegisteredOwner": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "1.10",
+        "raw_text": null
+      },
+      "TechnicalOperator": {
+        "value": "VR MARITIME SERVICES PVT LTD, B-301&302, 3rd floor, Business Square Solitaire, Chakala, Andheri Kurla Rd, Andheri (East), Mumbai 400093, India\nTel: +91 22 69094505\nEmail: tech@vrmaritime.net\nWeb: vrmaritime.com",
+        "confidence": 1.0,
+        "source": "1.11",
+        "raw_text": "VR MARITIME SERVICES PVT LTD, B-301&302, 3rd floor, Business Square Solitaire, Chakala, Andheri Kurla Rd, Andheri (East), Mumbai 400093, India\nTel: +91 22 69094505\nEmail: tech@vrmaritime.net\nWeb: vrmaritime.com"
+      },
+      "CommercialOperator": {
+        "value": "Hindage Oilfield Services Limited\nHOEC House, Tarlalja Road, Vadodara, Gujarat 390020\nIndia\nTel: +91 44 66229000\nFax: NA\nTelex: Not Applicable\nEmail: sachinb@hoec.com",
+        "confidence": 1.0,
+        "source": "1.12",
+        "raw_text": "Hindage Oilfield Services Limited\nHOEC House, Tarlalja Road, Vadodara, Gujarat 390020\nIndia\nTel: +91 44 66229000\nFax: NA\nTelex: Not Applicable\nEmail: sachinb@hoec.com"
+      },
+      "DisponentOwner": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "1.13",
+        "raw_text": null
+      },
+      "PIClub": {
+        "value": "SKULD\nAssuranceforeningen Skuld (Gjensidig) Singapore\nTel: +65 6438 8010\nFax: +65 6438 0180\nEmail: sng@skuld.com\nWeb: https://www.skuld.com",
+        "confidence": 1.0,
+        "source": "1.14",
+        "raw_text": "SKULD\nAssuranceforeningen Skuld (Gjensidig) Singapore\nTel: +65 6438 8010\nFax: +65 6438 0180\nEmail: sng@skuld.com\nWeb: https://www.skuld.com"
+      },
+      "PollutionLiability": {
+        "value": "1,000,000,000 US$ Feb 20, 2023",
+        "confidence": 1.0,
+        "source": "1.15",
+        "raw_text": "1,000,000,000 US$ Feb 20, 2023"
+      },
+      "PollutionLiabilityCoverage": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "1.15",
+        "raw_text": null
+      },
+      "HullMachineryInsurer": {
+        "value": "The New India Assurance Company Ltd.\nDivisonal Office ( Hull And Energy) 120500, New India Centre,\n4th Floor, 17-A, Cooperage Road, Mumbai- 400001\nEmail: nia.120500@newindia.co.in\nTel: +91 2222842530, +91 2222040005",
+        "confidence": 1.0,
+        "source": "1.16",
+        "raw_text": "The New India Assurance Company Ltd.\nDivisonal Office ( Hull And Energy) 120500, New India Centre,\n4th Floor, 17-A, Cooperage Road, Mumbai- 400001\nEmail: nia.120500@newindia.co.in\nTel: +91 2222842530, +91 2222040005"
+      },
+      "HullMachineryValue": {
+        "value": "20,000,000 US$ Feb 08, 2023",
+        "confidence": 1.0,
+        "source": "1.17",
+        "raw_text": "20,000,000 US$ Feb 08, 2023"
+      },
+      "ExpirationDate": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "1.17",
+        "raw_text": null
+      },
+      "ClassificationSociety": {
+        "value": "Indian Register of Shipping IRS- SUL",
+        "confidence": 1.0,
+        "source": "1.18",
+        "raw_text": "Indian Register of Shipping IRS- SUL"
+      },
+      "ClassNotation": {
+        "value": "\" Oil Tanker, Double Hull, ESP, SPM, Load Comp(3) IY, TCM, NV LRS-100 A1, Double Hull Oil tanker, ESP, Ship Right(SDA, FDA, CM) LI, SPM",
+        "confidence": 1.0,
+        "source": "1.19",
+        "raw_text": "\" Oil Tanker, Double Hull, ESP, SPM, Load Comp(3) IY, TCM, NV LRS-100 A1, Double Hull Oil tanker, ESP, Ship Right(SDA, FDA, CM) LI, SPM"
+      },
+      "ClassConditions": {
+        "value": "No",
+        "confidence": 1.0,
+        "source": "1.20",
+        "raw_text": "No"
+      },
+      "ClassificationChanged": {
+        "value": "N/A, Not Applicable",
+        "confidence": 1.0,
+        "source": "1.21",
+        "raw_text": "N/A, Not Applicable"
+      },
+      "IceClass": {
+        "value": "V/A",
+        "confidence": 1.0,
+        "source": "1.22",
+        "raw_text": "V/A"
+      },
+      "LastDryDock": {
+        "value": "May 31, 2021/Sembcorp, Singapore",
+        "confidence": 1.0,
+        "source": "1.23",
+        "raw_text": "May 31, 2021/Sembcorp, Singapore"
+      },
+      "NextDryDockDue": {
+        "value": "May 31, 2026",
+        "confidence": 1.0,
+        "source": "1.24",
+        "raw_text": "May 31, 2026"
+      },
+      "NextAnnualSurveyDue": {
+        "value": "May 31, 2026",
+        "confidence": 1.0,
+        "source": "1.24",
+        "raw_text": "May 31, 2026"
+      },
+      "LastSpecialSurvey": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "1.25",
+        "raw_text": null
+      },
+      "NextSpecialSurveyDue": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "1.25",
+        "raw_text": null
+      },
+      "Builder": {
+        "value": "Dalian New Shipyard",
+        "confidence": 1.0,
+        "source": "1.4",
+        "raw_text": "Dalian New Shipyard"
+      },
+      "DateDelivered": {
+        "value": "Aug 10, 1999",
+        "confidence": 1.0,
+        "source": "1.4",
+        "raw_text": "Aug 10, 1999"
+      },
+      "LOA": {
+        "value": "244.60 Metres",
+        "confidence": 1.0,
+        "source": "1.27",
+        "raw_text": "244.60 Metres"
+      },
+      "LBP": {
+        "value": "233.00 Metres",
+        "confidence": 1.0,
+        "source": "1.28",
+        "raw_text": "233.00 Metres"
+      },
+      "Beam": {
+        "value": "42.03 Metres",
+        "confidence": 1.0,
+        "source": "1.29",
+        "raw_text": "42.03 Metres"
+      },
+      "MouldedDepth": {
+        "value": "22.20 Metres",
+        "confidence": 1.0,
+        "source": "1.30",
+        "raw_text": "22.20 Metres"
+      },
+      "KTM": {
+        "value": "53.60 Metres",
+        "confidence": 1.0,
+        "source": "1.31",
+        "raw_text": "53.60 Metres"
+      },
+      "DistanceBridgeFront": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "1.32",
+        "raw_text": null
+      },
+      "BCM": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "1.33",
+        "raw_text": null
+      },
+      "SCM": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "1.33",
+        "raw_text": null
+      },
+      "NetTonnage": {
+        "value": "32,515.00",
+        "confidence": 1.0,
+        "source": "1.35",
+        "raw_text": "32,515.00"
+      },
+      "GrossTonnage": {
+        "value": "64,412.23",
+        "confidence": 1.0,
+        "source": "1.36",
+        "raw_text": "64,412.23"
+      },
+      "ReducedGrossTonnage": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "1.36",
+        "raw_text": null
+      },
+      "SuezTonnage": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "1.37",
+        "raw_text": null
+      },
+      "PanamaTonnage": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "1.38",
+        "raw_text": null
+      },
+      "SummerDWT": {
+        "value": "109,415.00 Metric Tonnes",
+        "confidence": 1.0,
+        "source": "1.39",
+        "raw_text": "109,415.00 Metric Tonnes"
+      },
+      "WinterDWT": {
+        "value": "106,639.00 Metric Tonnes",
+        "confidence": 1.0,
+        "source": "1.39",
+        "raw_text": "106,639.00 Metric Tonnes"
+      },
+      "TropicalDWT": {
+        "value": "112,563.00 Metric Tonnes",
+        "confidence": 1.0,
+        "source": "1.39",
+        "raw_text": "112,563.00 Metric Tonnes"
+      },
+      "Lightship": {
+        "value": "20,025.05 Metric Tonnes",
+        "confidence": 1.0,
+        "source": "1.39",
+        "raw_text": "20,025.05 Metric Tonnes"
+      },
+      "NormalBallast": {
+        "value": "39,330.00 Metric Tonnes",
+        "confidence": 1.0,
+        "source": "1.39",
+        "raw_text": "39,330.00 Metric Tonnes"
+      },
+      "SegregatedBallast": {
+        "value": "39,330.00 Metric Tonnes",
+        "confidence": 1.0,
+        "source": "1.39",
+        "raw_text": "39,330.00 Metric Tonnes"
+      },
+      "Freeboard": {
+        "value": "6.77 Metres",
+        "confidence": 1.0,
+        "source": "1.39",
+        "raw_text": "6.77 Metres"
+      },
+      "Draft": {
+        "value": "15.47 Metres",
+        "confidence": 1.0,
+        "source": "1.39",
+        "raw_text": "15.47 Metres"
+      },
+      "Displacement": {
+        "value": "129,167.00 Metric Tonnes",
+        "confidence": 1.0,
+        "source": "1.39",
+        "raw_text": "129,167.00 Metric Tonnes"
+      },
+      "FWA": {
+        "value": "351.00 Millimetres",
+        "confidence": 1.0,
+        "source": "1.40",
+        "raw_text": "351.00 Millimetres"
+      },
+      "TPC": {
+        "value": "91.23 Metric Tonnes",
+        "confidence": 1.0,
+        "source": "1.40",
+        "raw_text": "91.23 Metric Tonnes"
+      },
+      "Constant": {
+        "value": "200 Metric Tonnes",
+        "confidence": 1.0,
+        "source": "1.42",
+        "raw_text": "200 Metric Tonnes"
+      },
+      "UKC": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "1.43",
+        "raw_text": null
+      },
+      "AirDraft": {
+        "value": "38.13 Metres",
+        "confidence": 1.0,
+        "source": "1.44",
+        "raw_text": "38.13 Metres"
+      },
+      "MaxMastHeight": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "1.44",
+        "raw_text": null
+      },
+      "MultipleSSDWT": {
+        "value": "N/A",
+        "confidence": 1.0,
+        "source": "1.41",
+        "raw_text": "N/A"
+      },
+      "SEC": {
+        "value": "May 31, 2021",
+        "confidence": 1.0,
+        "source": "2.1",
+        "raw_text": "May 31, 2021"
+      },
+      "SRC": {
+        "value": "May 31, 2021",
+        "confidence": 1.0,
+        "source": "2.2",
+        "raw_text": "May 31, 2021"
+      },
+      "SCC": {
+        "value": "May 31, 2021",
+        "confidence": 1.0,
+        "source": "2.3",
+        "raw_text": "May 31, 2021"
+      },
+      "ILC": {
+        "value": "May 31, 2021",
+        "confidence": 1.0,
+        "source": "2.4",
+        "raw_text": "May 31, 2021"
+      },
+      "IOPPC": {
+        "value": "May 31, 2021",
+        "confidence": 1.0,
+        "source": "2.5",
+        "raw_text": "May 31, 2021"
+      },
+      "ISSC": {
+        "value": "Jul 07, 2021",
+        "confidence": 1.0,
+        "source": "2.6",
+        "raw_text": "Jul 07, 2021"
+      },
+      "MLC": {
+        "value": "Jul 09, 2021",
+        "confidence": 1.0,
+        "source": "2.7",
+        "raw_text": "Jul 09, 2021"
+      },
+      "ISM": {
+        "value": "Jul 06, 2021",
+        "confidence": 1.0,
+        "source": "2.8",
+        "raw_text": "Jul 06, 2021"
+      },
+      "DOC": {
+        "value": "Jun 25, 2021",
+        "confidence": 1.0,
+        "source": "2.9",
+        "raw_text": "Jun 25, 2021"
+      },
+      "IAPP": {
+        "value": "May 31, 2021",
+        "confidence": 1.0,
+        "source": "2.19",
+        "raw_text": "May 31, 2021"
+      },
+      "ISPP": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "2.16",
+        "raw_text": null
+      },
+      "CLC": {
+        "value": "Feb 20, 2023",
+        "confidence": 1.0,
+        "source": "2.11",
+        "raw_text": "Feb 20, 2023"
+      },
+      "CLBC": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "2.12",
+        "raw_text": null
+      },
+      "COFR": {
+        "value": "Not Applicable",
+        "confidence": 1.0,
+        "source": "2.14",
+        "raw_text": "Not Applicable"
+      },
+      "COFChemicals": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "2.17",
+        "raw_text": null
+      },
+      "COFGas": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "2.17",
+        "raw_text": null
+      },
+      "COC": {
+        "value": "May 31, 2021",
+        "confidence": 1.0,
+        "source": "2.15",
+        "raw_text": "May 31, 2021"
+      },
+      "CrewNationality": {
+        "value": "Indian",
+        "confidence": 1.0,
+        "source": "3.1",
+        "raw_text": "Indian"
+      },
+      "NumberOfOfficers": {
+        "value": "09",
+        "confidence": 1.0,
+        "source": "3.2",
+        "raw_text": "09"
+      },
+      "NumberOfCrew": {
+        "value": "13",
+        "confidence": 1.0,
+        "source": "3.3",
+        "raw_text": "13"
+      },
+      "WorkingLanguage": {
+        "value": "English",
+        "confidence": 1.0,
+        "source": "3.4",
+        "raw_text": "English"
+      },
+      "OfficersLanguage": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "3.5",
+        "raw_text": "Yes"
+      },
+      "ManningAgency": {
+        "value": "VR Maritime Services Private Limited 501,502 & 503, GLOBAL CHAMBERS BUILDING, 5TH FLOOR, Andheri East (Mumbai) MAHARASTRA. Email: sdp@vrmaritime.net",
+        "confidence": 1.0,
+        "source": "3.6",
+        "raw_text": "VR Maritime Services Private Limited 501,502 & 503, GLOBAL CHAMBERS BUILDING, 5TH FLOOR, Andheri East (Mumbai) MAHARASTRA. Email: sdp@vrmaritime.net"
+      },
+      "VesselResponse": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "4.1",
+        "raw_text": null
+      },
+      "QualifiedIndividual": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "4.2",
+        "raw_text": null
+      },
+      "OSROOrganization": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "4.3",
+        "raw_text": null
+      },
+      "SMFF": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "4.4",
+        "raw_text": null
+      },
+      "QualityManagementSystem": {
+        "value": "ISO 9001:2015",
+        "confidence": 1.0,
+        "source": "5.1",
+        "raw_text": "ISO 9001:2015"
+      },
+      "HelicopterGuidelines": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "5.2",
+        "raw_text": "Yes"
+      },
+      "CircleProvided": {
+        "value": "18.00 Metres",
+        "confidence": 1.0,
+        "source": "5.2.2",
+        "raw_text": "18.00 Metres"
+      },
+      "CoatingAnodes": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "6.1",
+        "raw_text": "Yes"
+      },
+      "BallastPumps": {
+        "value": "2 Centrifugal",
+        "confidence": 1.0,
+        "source": "7.1",
+        "raw_text": "2 Centrifugal"
+      },
+      "BallastEductors": {
+        "value": "2 Liquid Driven",
+        "confidence": 1.0,
+        "source": "7.1",
+        "raw_text": "2 Liquid Driven"
+      },
+      "DoubleHullVessel": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "8.1",
+        "raw_text": "Yes"
+      },
+      "SBTorCBT": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "8.3.3",
+        "raw_text": "Yes"
+      },
+      "SBTPercentage": {
+        "value": "41.20 %",
+        "confidence": 1.0,
+        "source": "8.3.3",
+        "raw_text": "41.20 %"
+      },
+      "MARPOLCompliance": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "8.3.4",
+        "raw_text": "Yes"
+      },
+      "DoubleValveSeparation": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "8.4",
+        "raw_text": "Yes"
+      },
+      "MaxLoadingRate": {
+        "value": "3,000 Cu. Metres/Hour",
+        "confidence": 1.0,
+        "source": "8.6",
+        "raw_text": "3,000 Cu. Metres/Hour"
+      },
+      "MaxLoadingRateAll": {
+        "value": "9,000 Cu. Metres/Hour",
+        "confidence": 1.0,
+        "source": "8.6",
+        "raw_text": "9,000 Cu. Metres/Hour"
+      },
+      "OCIMFCompliance": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "8.17.1",
+        "raw_text": "Yes"
+      },
+      "CargoRestrictions": {
+        "value": "No",
+        "confidence": 1.0,
+        "source": "8.5",
+        "raw_text": "No"
+      },
+      "LoadedPerManifold": {
+        "value": "3,000 Cu. Metres/Hour",
+        "confidence": 1.0,
+        "source": "8.6",
+        "raw_text": "3,000 Cu. Metres/Hour"
+      },
+      "LoadedSimultaneously": {
+        "value": "9,000 Cu. Metres/Hour",
+        "confidence": 1.0,
+        "source": "8.6",
+        "raw_text": "9,000 Cu. Metres/Hour"
+      },
+      "ManifoldHeight": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "8.24",
+        "raw_text": null
+      },
+      "SternManifold": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "8.26",
+        "raw_text": null
+      },
+      "MaxCargoTemp": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "8.28",
+        "raw_text": null
+      },
+      "GaugingSystem": {
+        "value": "SAAB Radar",
+        "confidence": 1.0,
+        "source": "8.9",
+        "raw_text": "SAAB Radar"
+      },
+      "HighLevelAlarms": {
+        "value": "Yes, All",
+        "confidence": 1.0,
+        "source": "8.9",
+        "raw_text": "Yes, All"
+      },
+      "TankOverpressure": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "8.9",
+        "raw_text": null
+      },
+      "MultiPointGauging": {
+        "value": "No",
+        "confidence": 1.0,
+        "source": "8.9.2",
+        "raw_text": "No"
+      },
+      "PortableGauging": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "8.10",
+        "raw_text": null
+      },
+      "VECSFitted": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "8.11",
+        "raw_text": "Yes"
+      },
+      "VECSManifolds": {
+        "value": "2",
+        "confidence": 1.0,
+        "source": "8.12",
+        "raw_text": "2"
+      },
+      "VECSType": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "8.13",
+        "raw_text": null
+      },
+      "VentingSystem": {
+        "value": "Mastriser & Individual tank high velocity vent valves.",
+        "confidence": 1.0,
+        "source": "8.14",
+        "raw_text": "Mastriser & Individual tank high velocity vent valves."
+      },
+      "ManifoldConnections": {
+        "value": "3/400.00 Millimetres",
+        "confidence": 1.0,
+        "source": "8.15",
+        "raw_text": "3/400.00 Millimetres"
+      },
+      "ManifoldValves": {
+        "value": "Butterfly",
+        "confidence": 1.0,
+        "source": "8.16",
+        "raw_text": "Butterfly"
+      },
+      "OCIMFManifolds": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "8.17.1",
+        "raw_text": "Yes"
+      },
+      "ManifoldDistance": {
+        "value": "2,500.00 Millimetres",
+        "confidence": 1.0,
+        "source": "8.18",
+        "raw_text": "2,500.00 Millimetres"
+      },
+      "ManifoldToShipSide": {
+        "value": "4,600.00 Millimetres",
+        "confidence": 1.0,
+        "source": "8.20",
+        "raw_text": "4,600.00 Millimetres"
+      },
+      "CargoManifoldDistance": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "8.23",
+        "raw_text": null
+      },
+      "MainDeckCenter": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "8.22",
+        "raw_text": null
+      },
+      "DistanceShipsRail": {
+        "value": "4,450.00 Millimetres",
+        "confidence": 1.0,
+        "source": "8.19",
+        "raw_text": "4,450.00 Millimetres"
+      },
+      "ManifoldHeightBallast": {
+        "value": "16.83 Metres",
+        "confidence": 1.0,
+        "source": "8.24",
+        "raw_text": "16.83 Metres"
+      },
+      "ManifoldHeightSDWT": {
+        "value": "9.91 Metres",
+        "confidence": 1.0,
+        "source": "8.24",
+        "raw_text": "9.91 Metres"
+      },
+      "ReducersType": {
+        "value": "1 x 400/300mm (16/12\")\n5 x 400/200mm (16/8\")\n1 x 400/400mm (16/16\")\n1 x 300/200mm (12/8\")\n1 x 300/200mm (12/8\")\n1 x 200/150mm (8/6\")\n2 x 400/150mm (16/6\") ASA",
+        "confidence": 1.0,
+        "source": "8.25",
+        "raw_text": "1 x 400/300mm (16/12\")\n5 x 400/200mm (16/8\")\n1 x 400/400mm (16/16\")\n1 x 300/200mm (12/8\")\n1 x 300/200mm (12/8\")\n1 x 200/150mm (8/6\")\n2 x 400/150mm (16/6\") ASA"
+      },
+      "SternManifoldFitted": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "8.26",
+        "raw_text": null
+      },
+      "CargoHoseFitted": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "8.26",
+        "raw_text": null
+      },
+      "WiresDrums": {
+        "value": "4",
+        "confidence": 1.0,
+        "source": "9.1",
+        "raw_text": "4"
+      },
+      "ForecastleWires": {
+        "value": "4",
+        "confidence": 1.0,
+        "source": "9.1",
+        "raw_text": "4"
+      },
+      "RopesDrums": {
+        "value": "6",
+        "confidence": 1.0,
+        "source": "9.3",
+        "raw_text": "6"
+      },
+      "MainDeckWires": {
+        "value": "2",
+        "confidence": 1.0,
+        "source": "9.1",
+        "raw_text": "2"
+      },
+      "ForecastleRopes": {
+        "value": "6",
+        "confidence": 1.0,
+        "source": "9.3",
+        "raw_text": "6"
+      },
+      "PopeDeck": {
+        "value": "2",
+        "confidence": 1.0,
+        "source": "9.1",
+        "raw_text": "2"
+      },
+      "ShacklesPort": {
+        "value": "13",
+        "confidence": 1.0,
+        "source": "9.7",
+        "raw_text": "13"
+      },
+      "SWLAnchor": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "9.8",
+        "raw_text": null
+      },
+      "SWLEmergencyTowing": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "9.9",
+        "raw_text": null
+      },
+      "ClosedChockType": {
+        "value": "OCIMF Tounge Type",
+        "confidence": 1.0,
+        "source": "9.16",
+        "raw_text": "OCIMF Tounge Type"
+      },
+      "ClosedChockSWL": {
+        "value": "204.00 Metric Tonnes",
+        "confidence": 1.0,
+        "source": "9.16",
+        "raw_text": "204.00 Metric Tonnes"
+      },
+      "ChainStopper": {
+        "value": "2",
+        "confidence": 1.0,
+        "source": "9.15",
+        "raw_text": "2"
+      },
+      "DerricsSwl": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "9.12",
+        "raw_text": null
+      },
+      "AccommodationLadder": {
+        "value": "Aft",
+        "confidence": 1.0,
+        "source": "9.13",
+        "raw_text": "Aft"
+      },
+      "GangwayLength": {
+        "value": "19 Metres",
+        "confidence": 1.0,
+        "source": "9.13",
+        "raw_text": "19 Metres"
+      },
+      "SPMCompliance": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "9.19",
+        "raw_text": "Yes"
+      },
+      "ChainStopperFitted": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "9.19",
+        "raw_text": "Yes"
+      },
+      "ChainStopperSWL": {
+        "value": "204.00 Metric Tonnes",
+        "confidence": 1.0,
+        "source": "9.16",
+        "raw_text": "204.00 Metric Tonnes"
+      },
+      "OCIMFShipToShip": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "11.1",
+        "raw_text": "Yes"
+      },
+      "BallastSpeed": {
+        "value": "16.51 Knots (WSNP)",
+        "confidence": 1.0,
+        "source": "10.1",
+        "raw_text": "16.51 Knots (WSNP)"
+      },
+      "LadenSpeed": {
+        "value": "16.42 Knots (WSNP)",
+        "confidence": 1.0,
+        "source": "10.1",
+        "raw_text": "16.42 Knots (WSNP)"
+      },
+      "FuelType": {
+        "value": "MGO-DMA:2005\nRMG35 Heavy fuel oil",
+        "confidence": 1.0,
+        "source": "10.2",
+        "raw_text": "MGO-DMA:2005\nRMG35 Heavy fuel oil"
+      },
+      "FuelCapacity": {
+        "value": "Fuel Oil: 3,634 Cu. Metres\nDiesel Oil: 212.60 Cu. Metres\nGas Oil: 0 Cu. Metres",
+        "confidence": 1.0,
+        "source": "10.3",
+        "raw_text": "Fuel Oil: 3,634 Cu. Metres\nDiesel Oil: 212.60 Cu. Metres\nGas Oil: 0 Cu. Metres"
+      },
+      "PropellerType": {
+        "value": "Fixed",
+        "confidence": 1.0,
+        "source": "10.4",
+        "raw_text": "Fixed"
+      },
+      "MainEngineType": {
+        "value": "SULZER 7RTA62U",
+        "confidence": 1.0,
+        "source": "10.5",
+        "raw_text": "SULZER 7RTA62U"
+      },
+      "MainEngineHP": {
+        "value": "15,540 Kilowatt",
+        "confidence": 1.0,
+        "source": "10.5",
+        "raw_text": "15,540 Kilowatt"
+      },
+      "AuxEngineType": {
+        "value": "SSANGYONG MAN B&W 6L23/30H",
+        "confidence": 1.0,
+        "source": "10.5",
+        "raw_text": "SSANGYONG MAN B&W 6L23/30H"
+      },
+      "AuxEngineKW": {
+        "value": "835 Kilowatt",
+        "confidence": 1.0,
+        "source": "10.5",
+        "raw_text": "835 Kilowatt"
+      },
+      "BowThruster": {
+        "value": "N/A, 0.00 bhp",
+        "confidence": 1.0,
+        "source": "10.6",
+        "raw_text": "N/A, 0.00 bhp"
+      },
+      "SternThruster": {
+        "value": "N/A, 0.00 bhp",
+        "confidence": 1.0,
+        "source": "10.7",
+        "raw_text": "N/A, 0.00 bhp"
+      },
+      "Boilers": {
+        "value": "AALBORG AQ-18, OIL FIRED BOILER",
+        "confidence": 1.0,
+        "source": "10.5",
+        "raw_text": "AALBORG AQ-18, OIL FIRED BOILER"
+      },
+      "IMONOxStandard": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "10.8",
+        "raw_text": null
+      },
+      "EnergyEfficiency": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "10.9",
+        "raw_text": null
+      },
+      "STSCompliance": {
+        "value": "Yes",
+        "confidence": 1.0,
+        "source": "11.1",
+        "raw_text": "Yes"
+      },
+      "STSFenders": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "11.1",
+        "raw_text": null
+      },
+      "STSWaterplace": {
+        "value": "Tandem 21.12.2019 / Panna oil Field.",
+        "confidence": 1.0,
+        "source": "11.3",
+        "raw_text": "Tandem 21.12.2019 / Panna oil Field."
+      },
+      "LastThreeCargoes": {
+        "value": "1. Crude Oil / Mumbai port to Mumbai high(B-80 Oil field)\n2. Panna Crude / Cochin to Mumbai\n3. NA",
+        "confidence": 1.0,
+        "source": "12.1",
+        "raw_text": "1. Crude Oil / Mumbai port to Mumbai high(B-80 Oil field)\n2. Panna Crude / Cochin to Mumbai\n3. NA"
+      },
+      "PollutionIncident": {
+        "value": "No, NA",
+        "confidence": 1.0,
+        "source": "12.2",
+        "raw_text": "No, NA"
+      },
+      "DatePlaceSIRE": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "12.3",
+        "raw_text": null
+      },
+      "PortStateDeficiencies": {
+        "value": "No",
+        "confidence": 1.0,
+        "source": "12.4",
+        "raw_text": "No"
+      },
+      "OMInspections": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "12.5",
+        "raw_text": null
+      },
+      "SIREDate": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "12.3",
+        "raw_text": null
+      },
+      "AdditionalInfo": {
+        "value": "Not Found",
+        "confidence": 0.0,
+        "source": "12.5",
+        "raw_text": null
+      }
+    },
+    "summary": {
+      "total_fields_found": 132,
+      "total_fields_expected": 174,
+      "completion_percentage": 75.86206896551724,
+      "document_type": "INTERTANKO CHARTERING QUESTIONNAIRE 88 - OIL",
+      "processing_notes": "All fields were successfully extracted from the provided text."
+    }
+  },
+  "edit_history": []
+}
