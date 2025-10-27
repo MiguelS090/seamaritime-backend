@@ -15,23 +15,12 @@ app = FastAPI(
     version="1.0.0"
 )
 
-# 🌍 Configuração do CORS
-origins = settings.FRONT_END if settings.FRONT_END else []
-
-# Adicionar domínios do Business Central
-bc_origins = [
-    "https://businesscentral.dynamics.com",
-    "https://*.businesscentral.dynamics.com",
-    "https://businesscentral.dynamics.com/*",
-]
-
-# Combinar todas as origens
-all_origins = origins + bc_origins if origins else ["*"]
-
+# 🌍 Configuração do CORS - PERMITIR TODAS as origens (modo dev/BC)
+# IMPORTANTE: Business Central usa subdomínios dinâmicos, então usamos "*"
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=all_origins, 
-    allow_credentials=True,
+    allow_origins=["*"],  # Aceitar qualquer origem (BC usa subdomínios variados)
+    allow_credentials=False,  # DEVE ser False quando allow_origins é "*"
     allow_methods=["*"],
     allow_headers=["*"],
     expose_headers=["*"],
